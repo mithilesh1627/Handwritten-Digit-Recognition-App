@@ -104,7 +104,7 @@ https://your-app-name.onrender.com
 
 | Draw Digit | Model Prediction |
 |-------------|-----------------|
-| ![Draw](output/webpage.PNG) | ![Prediction](output/predict.PNG) |
+| ![Draw](output/web_page.PNG) | ![Prediction](output/predict.PNG) |
 
 ---
 
