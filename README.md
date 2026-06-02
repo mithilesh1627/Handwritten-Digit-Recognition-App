@@ -122,7 +122,7 @@ https://your-app-name.onrender.com
 
 ## 🧑‍💻 Author
 **Mithilesh Chaurasiya**  
-📎 [Portfolio](https://mithileshcv.up.railway.app)  
+📎 [Portfolio](https://mithileshchaurasiya.me)
 💼 [LinkedIn](https://www.linkedin.com/in/mithilesh1627)  
 🧠 Passionate about Data Engineering, MLOps, and AI Engineering.
 
