@@ -51,6 +51,8 @@ python train_model.py
 This will create `digit_model.h5` inside the `model/` folder.
 
 ---
+## Live Demo
+[Demo](https://handwritten-digit-recognition-1apy.onrender.com/)  
 
 ## 🌐 Deployment on Render
 
